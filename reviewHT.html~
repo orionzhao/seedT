@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 
-<!-- Website template by freewebsitetemplates.com -->
-<html>
-<head>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
     
 	<meta charset="UTF-8">
 	<title>Projects - Origin Architects Website Template</title>
-	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" href="./review_files/style.css" type="text/css" style="width:600px">
 </head>
 <body>
 	<div id="background-lightyellow">
@@ -17,17 +15,17 @@
 	<div class="page">
 		<div class="project-page">
 			<div class="sidebar">
-				<a href="index.html" id="logo"><img src="images/logo.png" alt="logo"></a>
+				<a href="file://localhost/Users/Jimmy/Desktop/originarchitectswebsitetemplate/index.html" id="logo"><img src="./review_files/logo.png" alt="logo"></a>
 				<ul>
 					<li class="home">
-						<a href="index.html">Home</a>
+						<a href="file://localhost/Users/Jimmy/Desktop/originarchitectswebsitetemplate/index.html">Home</a>
 					</li>
 					<li class="about">
-						<a href="about.html">About</a>
+						<a href="file://localhost/Users/Jimmy/Desktop/originarchitectswebsitetemplate/about.html">About</a>
 					</li>
 				
 					<li class="contact">
-						<a href="contact.html">Contact</a>
+						<a href="file://localhost/Users/Jimmy/Desktop/originarchitectswebsitetemplate/contact.html">Contact</a>
 					</li>
 				</ul>
 				<div class="connect">
@@ -40,7 +38,7 @@
 						<h3>Chile Verde Tomato Seeds REVIew</h3>
                         
                                       
-						<iframe frameborder=0 style="width:100%; height:1000px"  id=ifrm src=review.html ></iframe>
+						<iframe frameborder="0" style="width:100%; height:1000px" id="ifrm" src="./review_files/review.html"></iframe>
                         
                         
                         
@@ -58,23 +56,23 @@
 
 				<div class="footer">
 					<p>
-						&#169; 2023 Origins Interior Architects
+						© 2023 Origins Interior Architects
 					</p>
 					<ul>
 						<li>
-							<a href="index.html">Home</a>
+							<a href="file://localhost/Users/Jimmy/Desktop/originarchitectswebsitetemplate/index.html">Home</a>
 						</li>
 						<li>
-							<a href="about.html">About</a>
+							<a href="file://localhost/Users/Jimmy/Desktop/originarchitectswebsitetemplate/about.html">About</a>
 						</li>
 				
 						<li>
-							<a href="contact.html">Contact</a>
+							<a href="file://localhost/Users/Jimmy/Desktop/originarchitectswebsitetemplate/contact.html">Contact</a>
 						</li>
 					</ul>
 				</div>
 			</div>
 		</div>
 	</div>
-</body>
-</html>
+
+</body></html>
